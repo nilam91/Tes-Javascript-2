@@ -1,0 +1,9 @@
+//console.log("Hello, ini adalah program JS eksternal!")
+
+//var title = "Belajar Javascript untuk QA";
+//var visitorCount = 5921;
+
+let a=5;
+let b=2;
+lect c=a+b;
+console.log(c);
